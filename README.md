@@ -1,1 +1,1 @@
-# https-github.com-uark-cviu-QuantumNoiseMitigation
+# Diffusion-Inspired Quantum Noise Mitigation in Parameterized Quantum Circuits
